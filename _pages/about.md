@@ -18,9 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🗨 About Me
-My name is Shuju Sun and you can call me Jeffery. I am currently pursuing a master's degree in spatial data science at the University of Southern California (https://www.usc.edu/). 
+My name is Shuju Sun and you can call me Jeffery. I am currently pursuing a Master's degree in Spatial Data Science at the University of Southern California (https://www.usc.edu/). 
 
-Previously, I obtained a bachelor's degree in Commerce with an specialization in Accounting from University of British Columbia in Canada (https://www.sauder.ubc.ca/). Currently, I am seeking an internship opportunity to apply my data science techniques such as data engineering, machine learning, deep learning and some other skills. I am an enthusiast in metaverse, smart city development and AI4Finance. 
+Previously, I obtained a bachelor's degree in Commerce with a specialization in Accounting from University of British Columbia in Canada (https://www.sauder.ubc.ca/). Currently, I am seeking an internship opportunity to practice my data science techniques such as data engineering, machine learning, deep learning and some other skills. I am an enthusiast in metaverse, smart city development and AI4Finance. 
 
 # 📖 Educations
 - *2023.01 - 2024.12*, MS, Spatial Data Science, University of Southern California, Los Angeles, CA, USA
@@ -44,7 +44,7 @@ Previously, I obtained a bachelor's degree in Commerce with an specialization in
 
 # 🌎 Miscellaneous
 [comment]: <> ( I am recording some of my works and thoughts in form of blog.)
-I like basketball, football, and I watch many games. Favorite player is Messi
+I love playing basketball, Hiking, and doing Yoga. 
 
 <body>
 <a href="https://clustrmaps.com/site/1bvzy"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=ew9JD5D1fDG0V7A7Uc0mx-mp4-J3v9AA6jUiCkkFMXA&cl=ffffff" /></a>
